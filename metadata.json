@@ -1,0 +1,7 @@
+{
+  "name": "Naptah: AI Plant Doctor",
+  "description": "An AI-powered application that instantly identifies plant diseases from photos, offering expert solutions and treatment plans in seconds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
